@@ -1,11 +1,4 @@
 /* FATEC | DESAFIO 2 | LP
-
-GP12
-Nome: Gabrielly V F Alves
-Nome: Maria H L Carlos
-Nome: Taina A Santana
-Turma: M
-
 */
 
 
